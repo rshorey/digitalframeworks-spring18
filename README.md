@@ -94,11 +94,12 @@ Class slides are located [here](https://drive.google.com/drive/folders/0B2vWewI1
 * In-class assignment tk
 
 **Class 9: While I've got you here...** (May 30)
-A potpourri of things I wish reporters knew, including but not limited to:
+A potpourri of very quick explanations of things I wish reporters knew, including but not limited to:
 * The guts of the Internet (and how this helps you as a reporter or researcher)
-* Voting and elections data
-* tktk
-* In-class assignment tk
+* Probability
+* Machine Learning
+* Getting data from a website
+* No assignment, but I will match you with another student and you will be responsible for reading their final project and asking them 2-3 interview questions about it in class next week.
 
 **Class 10: Project presentations, jobs** (June 6)
 We'll all hear about your final project! Details about final projects [here](https://github.com/rshorey/digitalframeworks-spring18/blob/master/finalproject.md)
